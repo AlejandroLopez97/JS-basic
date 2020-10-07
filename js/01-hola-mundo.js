@@ -1,0 +1,1 @@
+alert("de esta manera tambien usamos codigo js en web");
